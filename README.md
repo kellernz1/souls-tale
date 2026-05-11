@@ -29,14 +29,6 @@ Selecting an item triggers:
 - Progressive lore text reveal
 - Ambient immersion effects
 
-### 🔥 Dynamic Ambience
-Atmospheric audio system including:
-- Crackling bonfire loops
-- Discovery chimes
-- Smooth fade in/out transitions
-
-> *Audio is designed to feel subtle, distant, and haunting.*
-
 ### ☠️ "YOU DIED" Easter Egg
 A hidden interaction punishes players who seek forbidden knowledge.
 
