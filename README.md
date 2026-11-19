@@ -1,10 +1,10 @@
-# 🕯️ Souls Tale: Soulsborne Lore Reader
+# Souls Tale: Soulsborne Lore Reader
 
 A minimalist, atmospheric web application designed for fans of *Dark Souls* and *Elden Ring* to explore the deep lore of iconic items. The experience is crafted to be slow, somber, and contemplative — mimicking the feeling of discovering a legendary artifact in a ruined world.
 
 ---
 
-## 🌙 Overview
+## Overview
 
 **Souls Tale** is more than just an inventory — it's a ritual.
 
@@ -14,25 +14,25 @@ The project focuses heavily on atmosphere, immersion, and emotional pacing inspi
 
 ---
 
-## ⚔️ Features
+## Features
 
-### 🕯️ Minimalist Altar
+### Minimalist Altar
 A carefully crafted grid of mystical items featuring relics inspired by:
 - *Dark Souls*
 - *Elden Ring*
 - *Bloodborne* aesthetics
 
-### 📖 Ritual of Discovery
+### Ritual of Discovery
 Selecting an item triggers:
 - A cinematic fullscreen overlay
 - Slow fade transitions
 - Progressive lore text reveal
 - Ambient immersion effects
 
-### ☠️ "YOU DIED" Easter Egg
+### "YOU DIED" Easter Egg
 A hidden interaction punishes players who seek forbidden knowledge.
 
-### 🎨 Visual Identity
+### Visual Identity
 
 #### Typography
 Inspired by the iconic Soulsborne UI aesthetic:
@@ -56,7 +56,7 @@ Inspired by the iconic Soulsborne UI aesthetic:
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 ### HTML5
 Semantic structure and accessible layout organization.
@@ -79,7 +79,7 @@ Handles:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Clone the repository
 
@@ -112,13 +112,13 @@ Simply open `index.html` in any modern web browser.
 
 ---
 
-> ⚠️ **Important:**  
+> **Important:**  
 > Browser policies require user interaction before playing audio.  
 > The player must click **"Enter the Vault"** to enable atmospheric sounds.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 /tale-of-the-item
@@ -133,7 +133,7 @@ Simply open `index.html` in any modern web browser.
 
 ---
 
-## ✨ Inspiration
+## Inspiration
 
 This project draws inspiration from:
 - The item lore presentation style of *Dark Souls*
@@ -145,18 +145,18 @@ The goal was to transform item descriptions into emotional storytelling moments.
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
-- [ ] 🎙️ Voice narration for item lore
-- [ ] 📜 Procedural lore generation
-- [ ] 🌫️ Enhanced volumetric smoke effects
-- [ ] 🧩 Hidden collectible relics
-- [ ] 🌍 Multi-language support
-- [ ] 💾 Save discovered items using `localStorage`
+- [ ] Voice narration for item lore
+- [ ] Procedural lore generation
+- [ ] Enhanced volumetric smoke effects
+- [ ] Hidden collectible relics
+- [ ] Multi-language support
+- [ ] Save discovered items using `localStorage`
 
 ---
 
-## 📄 License
+## License
 
 This project is open-source and available under the **MIT License**.
 
@@ -164,12 +164,6 @@ Feel free to study, modify, and expand upon it.
 
 ---
 
-## 👨‍💻 Author
-
-Developed by **Keller Nz**
-
----
-
-## ⭐ Support
+## Support
 
 If you enjoyed this project, consider giving it a ⭐ on GitHub.
